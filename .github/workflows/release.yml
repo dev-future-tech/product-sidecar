@@ -99,3 +99,4 @@ jobs:
       - id: docker_push
         name: Push to DockerHub
         run: docker push anthonyikeda/${{needs.build.outputs.artifactId}}:${{needs.build.outputs.artifactVersion}}
+
