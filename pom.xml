@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>product-sidecar</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>Product Sidecar</name>
     <description>Sidecar container to test the ability to manage resources next to the main container.</description>
     <properties>
@@ -28,7 +28,7 @@
     <scm>
         <connection>scm:git:${project.scm.url}</connection>
         <url>https://github.com/dev-future-tech/product-sidecar.git</url>
-        <tag>0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
