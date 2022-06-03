@@ -1,0 +1,8 @@
+= Product Sidecar
+:author: Anthony Ikeda <anthony.ikeda@gmail.com>
+:version: 0.0.1
+
+== Overview
+
+Basic service to test with running container as a sidecar
+
